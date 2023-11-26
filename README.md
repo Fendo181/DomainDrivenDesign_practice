@@ -1,0 +1,2 @@
+# DomainDrivenDesign_practice
+ドメイン駆動設計について学ぶリポジトリになります。
